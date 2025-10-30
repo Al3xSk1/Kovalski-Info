@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="post">
+    <h1>{{ title }}</h1>
+    {% if date %}<p class="muted">{{ date }}</p>{% endif %}
+    <div>{{ body | safe }}</div>
+
+    {% if tags %}
+    <section class="tags">
+        <h3>Tags</h3>
+        <ul>
+        {% for tag in tags %}
+            <li><a href="{{ base }}/tags/{{ tag | lower | replace(' ', '-') }}/">{{ tag }}</a></li>
+        {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+</article>
+{% endblock %}

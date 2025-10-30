@@ -1,0 +1,7 @@
+site_name: "Kovalski"
+author: "Alex Kovalski"
+
+# RSS settings
+rss_title: "aski"
+rss_path: "/rss.xml"
+site_url: "https://www.kovalski.info"   # used to make absolute URLs in RSS & sitemap

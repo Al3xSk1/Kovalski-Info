@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Tags</h1>
+<ul class="tag-cloud">
+    {% for tag, count in tags %}
+    <li style="font-size: calc(0.8rem + {{ count }} * 0.1rem)">
+      <a href="{{ base }}/tags/{{ tag }}/">{{ tag }}</a> ({{ count }})
+    </li>
+    {% endfor %}
+</ul>
+{% endblock %}
