@@ -7,22 +7,6 @@ template: "page"
 
 I’m driven by curiosity and enjoy learning at the intersection of **computer science, data, and emerging technologies**. Whether I’m building software, supporting IT infrastructure, or enhancing digital experiences, I aim to create value through practical solutions and continuous improvement.
 
-## What I’ve Worked On
-
-### Software & IT Experience
-I’ve supported and developed technology systems in academic and business settings — from securing school computer labs to building tools that streamline workflows.
-
-- **Software Engineer Intern** — QuickEst Estimations Inc. *(2025)*
-- **IT Intern & Volunteer** — Clinton Senior High School *(2023–2025)*
-
-Focused on device security, system assessments, and Windows access configuration
-
-### Live Broadcast & Game Operations
-Worked with Greenlight Studios to manage live streaming, scorekeeping, and public announcing for sports and school events.
-
-### Cybersecurity & HR Engagement
-Contributed to cybersecurity investigations and supported employee programs at Work-Based Learning Alliance and Jabil respectively, helping strengthen community and security initiatives.
-
 ## My Interests
 
 I love exploring:
@@ -44,4 +28,5 @@ I’m always open to new opportunities and conversations. Feel free to reach out
 **LinkedIn:** www.linkedin.com/in/al3xsk1  
 **GitHub:** github.com/Al3xSk1  
 **Orcid:** orcid.org/0009-0000-8501-8207  
+**Credly:** www.credly.com/users/al3xsk1      
 **Website:** www.kovalski.info  
