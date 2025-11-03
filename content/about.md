@@ -24,9 +24,8 @@ You’ll often find me experimenting with new tools, building projects that chal
 
 I’m always open to new opportunities and conversations. Feel free to reach out — let’s build something great together.
 
-**Email:** alex@kovalskitech.com  
-**LinkedIn:** www.linkedin.com/in/al3xsk1  
-**GitHub:** github.com/Al3xSk1  
-**Orcid:** orcid.org/0009-0000-8501-8207  
-**Credly:** www.credly.com/users/al3xsk1      
-**Website:** www.kovalski.info  
+[Click Here for Links](./contacts.html)
+
+## More???
+
+Want to know more [click here](./additions.html)

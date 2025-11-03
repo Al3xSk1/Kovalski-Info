@@ -5,9 +5,15 @@ template: "page"
 
 ## Internships
 
-### I
+### Software Engineering 
 
-### Greenlight Studios 
+Worked as a Software Engineering Intern during WPI's A-Term 2025 for [QuickEst Estimations Inc.](https://www.getquickest.com/) working with Django and JavaScript. QuickEst is a SaaS company specializing in Satelite Mapping Estimates.
+
+### Information Tech
+
+ I primarily Assisted the IT dept. at my High School, where I worked on securing, assessing, and supporting the computers in the school's various computer labs. Worked briefly with Group-Access configurations within Windows 11.
+
+### Live Streaming Tech 
 
 Worked as the Live Stream Technician and Scoreboard/Timekeeper/Public Announcer depending on assignment.
 
