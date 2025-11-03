@@ -1,6 +1,6 @@
 ---
 title: "Designing My Own Major at WPI: Quantitative Financial Systems Engineering"
-date: 2025-10-29
+date: "2025-10-29"
 template: "post"
 tags: ["college"]
 ---

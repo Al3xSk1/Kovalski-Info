@@ -1,8 +1,8 @@
 ---
 title: "Devlog #1 — Announcing Epoch MC"
-date: 2025-11-02
+date: "2025-11-02"
 template: "post"
-tags: ["minecraft", "video games"]
+tags: ["minecraft", "video-games"]
 ---
 
 *November 2025*
