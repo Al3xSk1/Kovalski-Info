@@ -42,10 +42,15 @@ Contributed to cybersecurity investigations and supported employee programs at W
 
 ## Memberships
 
+### Exec. Board Positions in Clubs
+
+- WPI **SIAM** chapter Interim Secretary during B Term 2025.
+- CHS **FRC126** Technician 2023-2025 seasons
+
 ### Worcester Polytechnic Institute
 
 - Math Club
-- SIAM chapter Interim Secretary
+- SIAM chapter
 - AWM chapter
 - IEEE chapter
 
