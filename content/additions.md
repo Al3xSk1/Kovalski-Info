@@ -5,15 +5,15 @@ template: "page"
 
 ## Internships
 
-### Software Engineering 
+### Software Engineering
 
-Worked as a Software Engineering Intern during WPI's A-Term 2025 for [QuickEst Estimations Inc.](https://www.getquickest.com/) working with Django and JavaScript. QuickEst is a SaaS company specializing in Satelite Mapping Estimates.
+Worked as a Software Engineering Intern during WPI's A-Term 2025 for QuickEst Estimations working with Django and JavaScript. QuickEst is a SaaS company specializing in Satelite Mapping Estimates.
 
 ### Information Tech
 
  I primarily Assisted the IT dept. at my High School, where I worked on securing, assessing, and supporting the computers in the school's various computer labs. Worked briefly with Group-Access configurations within Windows 11.
 
-### Live Streaming Tech 
+### Live Streaming Tech
 
 Worked as the Live Stream Technician and Scoreboard/Timekeeper/Public Announcer depending on assignment.
 
@@ -23,7 +23,7 @@ Organized and supported multiple employee engagement events including a blood-dr
 
 ### Cybersecurity
 
-Contributed to cybersecurity investigations and supported employee programs at Work-Based Learning Alliance. 
+Contributed to cybersecurity investigations and supported employee programs at Work-Based Learning Alliance.
 
 ## Certifications
 
@@ -34,7 +34,7 @@ Contributed to cybersecurity investigations and supported employee programs at W
 
 - Clinton High School Academic Award in AP Computer Science Principles (2025)
 - Clinton High School Effort Award (2025)
-- Runner Up at BattleCry at WPI (2024) as FRC team 126 with teams  131, 125, and 1474 
+- Runner Up at BattleCry at WPI (2024) as FRC team 126 with teams  131, 125, and 1474
 - T&G Student of the Week in Worcester County (2024)
 - Clinton High School Student of the Month (2023)
 - MA Dept. Elementary and Secondary Edu. Student Achievement Award (2023)
@@ -54,7 +54,7 @@ Contributed to cybersecurity investigations and supported employee programs at W
 - AWM chapter
 - IEEE chapter
 
-### Clinton High School 
+### Clinton High School
 
 - National Honor Society
 - FIRST Robotics Team 126
@@ -69,3 +69,8 @@ Contributed to cybersecurity investigations and supported employee programs at W
 - American Mathematical Society
 - Institute of Electrical and Electronics Engineers
 - IEEE Computer Society
+
+
+## Press
+
+[Press Page](./press.html)
